@@ -1,0 +1,26 @@
+h1 {
+ font-family: 'Satisfy', cursive;
+}
+body{ 
+    background-image: url("https://i.pinimg.com/originals/47/a2/fb/47a2fbadcce97b155bbc90d5d6c3ba15.gif");
+}
+
+.aboutMe{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+     color: #FFFFFF;
+   }
+.ppg {
+    border-style: dotted;
+    border: #add8e6 2px dotted;
+    padding: 5px;
+    margin: 5px;
+    height: 150px;  
+}
+div {
+    border: white 1px dotted;
+}
+
+.p {background-color:white;
+}
